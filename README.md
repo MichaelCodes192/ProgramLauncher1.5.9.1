@@ -1,1 +1,6 @@
-- Hi
+- Hi, welcome to MichaelCodes192's server!
+- This is Program Launcher 1.5.9.1.
+- This is v1.5.9.1 of the app.
+- The files are listed down below!
+- Thank you for supporting Pogram Launcher 1.5.9.1!
+- Copyright (C) 2024 Michael Joo
